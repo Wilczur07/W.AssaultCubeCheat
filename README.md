@@ -14,9 +14,9 @@ Finish Aimbot, TriggerBot
 
 ## Usage
 
--Inject the DLL into the game process 
--Press Insert key in menu to configure functions
--! Menu at first dont display options for earch category, you need to enter category using menu right key (ex esp) to display options
+- Inject the DLL into the game process 
+- Press Insert key in menu to configure functions
+- Menu at first dont display options for earch category, you need to enter category using menu right key (ex esp) to display options
 ---
 
 ## Hotkeys
